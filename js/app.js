@@ -10,7 +10,7 @@ $(document).ready(function () {
 		eventClick: function (calEvent) {
 
 			// Initialize
-			$('#event-date').text(calEvent.title);
+			$('#event-title').text(calEvent.title);
 			$('#event-time').text(calEvent.start);
 			$('#event-description').text(calEvent.description);
 

@@ -1,0 +1,50 @@
+let eventData = [
+	{
+		title: 'Long Event',
+		start: '2017-07-23',
+		end: '2017-07-29',
+		description: 'A very long event'
+					},
+	{
+		title: 'Conference',
+		start: '2017-07-21',
+		end: '2017-07-23',
+		description: 'BSA-17 .NET Meetup'
+					},
+	{
+		title: 'Frontend Meeting',
+		start: '2017-07-24T10:30:00',
+		end: '2017-07-24T12:30:00',
+		description: 'Meet with V.Kushnir'
+					},
+	{
+		title: 'Lunch',
+		start: '2017-07-22T12:00:00',
+		description: 'Lunch with .NET Team'
+					},
+	{
+		title: 'Meeting',
+		start: '2017-07-23T14:30:00',
+		description: 'Meet with boss (N. Semenistyi)'
+					},
+	{
+		title: 'Happy Hour',
+		start: '2017-07-25T17:30:00',
+		description: 'Owerwatch time!!!'
+					},
+	{
+		title: 'Dinner',
+		start: '2017-07-24T20:00:00',
+		description: 'Date with a girlfriend'
+					},
+	{
+		title: 'Birthday Party',
+		start: '2017-07-25T07:00:00',
+		description: 'Whiskey time!'
+					},
+	{
+		title: 'Time to code',
+		start: '2017-08-01T07:00:00',
+		description: 'Make .NET great again!'
+					}
+				]
